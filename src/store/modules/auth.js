@@ -2,7 +2,6 @@ import {getAccessTokenByCode, refreshToken} from "../../api/auth/auth";
 import moment from "moment";
 import Config from "../../libs/auth/config";
 import Constant from "../../libs/auth/constant";
-import Cookies from "js-cookie";
 
 const state = {}
 
