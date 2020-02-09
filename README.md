@@ -1,5 +1,8 @@
 # sso-client1
 
+#### 介绍
+前后分离项目，配合单点登录系统sso，符合spring security oauth2 规范
+
 ## Project setup
 ```
 npm install
